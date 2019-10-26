@@ -211,5 +211,5 @@
 "Could not resolve dependency for %@" = "Impossible de résoudre la dépendence de %@";
 "%@ conflicts with %@" = "%@ entre en conflit avec %@";
 "%@ depends on %@" = "%@ dépend de %@";
-"Removed by" = "Supprimer par";
+"Removed by" = "Supprimé par";
 "Required by" = "Souhaité par";
