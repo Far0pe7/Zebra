@@ -10,11 +10,6 @@
 "Close" = "Fermer";
 "Done" = "Fini";
 
-// Tab controller
-"Packages in Queue" = "Paquets en File d'Attente";
-"Package in Queue" = "Paquet en File d'Attente";
-"Tap to manage Queue" = "Appuyer pour modifier la File d'Attente";
-
 // Home
 
 "Home" = "Accueil";
@@ -32,11 +27,18 @@
 "Stores" = "Magasins";
 "Purchases" = "Achats";
 "Wish List" = "Liste de souhait";
-"Unlist" = "Enlever de la liste";
+"Unwish" = "Enlever de la liste";
 "Community" = "Communauté";
-"Join our Discord" = "Rejoindre notre serveur Discord";
+"Join our Discord" = "Joindre notre Discord";
 "Follow me on Twitter" = "Me suivre sur Twitter";
-"Credits" = "Crédits";
+
+//Credits
+
+"Credits" = "Credits";
+"Creators" = "Créateurs";
+"Contributors" = "Associés";
+"Translators" = "Traducteurs";
+"Libraries" = "Libraries";
 
 // Settings
 
@@ -72,7 +74,7 @@
 "Feature Type" = "Type de Mise en Vedette";
 "Select Repos to be Featured" = "Selectionner les Sources à Mettre en Vedette";
 
-"Enable News" = "Activer la section \"Nouveautés\"";
+"Enable News" = "Activer la section "nouveautés"";
 
 "Search while Typing" = "Rechercher tout en écrivant";
 
@@ -108,7 +110,7 @@
 "Please Wait..." = "Patientez...";
 "Verifying Source(s)" = "Vérification de la(des) Source(s)";
 "Unable to verify Repo" = "Impossible de vérifier la(les) Source(s)";
-"Refresh" = "Rafraîchir";
+"Refresh" = "Rafraîchir"
 "Log Out" = "Déconnexion";
 "Purchased Packages" = "Paquets Achetés";
 "Purchased" = "Acheté";
@@ -137,8 +139,8 @@
 "Queue" = "File d'attente";
 "Clear" = "Vider";
 "Are you sure you want to clear Queue?" = "Etes vous sur de vouloir vider la File d'Attente?";
-"Available Upgrades" = "Mises à Niveau Disponibles";
-"Ignored Upgrades" = "Mises à Niveau Ignorées";
+"Available Upgrades" = "Mises à niveau disponibles";
+"Ignored Upgrades" = "Mises à niveau ignorées";
 "Recent" = "Récent";
 "Installed Files" = "Fichiers Installés";
 "Modify" = "Modifier";
@@ -148,7 +150,46 @@
 "Installed Version" = "Version Installée";
 
 "Add to Wish List" = "Ajouter à la Liste de Souhait";
-"Remove from Wish List" = "Supprimer de la Liste de Souhait";
+"Remove from Wish List" = "Supprimer de la liste de souhait";
+
+// Package Section Names
+
+"Administration" = "Administration";
+"App Addons" = "App Addons";
+"Archiving" = "Archivage";
+"Carrier Blanks" = "Carrier Blanks";
+"Communication" = "Communication";
+"Data Storage" = "Espace de Stockage";
+"Development" = "Developpement";
+"Dictionaries" = "Dictionnaires";
+"Education" = "Education";
+"Entertainment" = "Divertissement";
+"Games" = "Jeux";
+"Health and Fitness" = "Santé";
+"Imaging" = "Imagerie";
+"Java" = "Java";
+"Keyboards" = "CLaviers";
+"Localization" = "Localisation";
+"Messaging" = "Messagerie";
+"Multimedia" = "Multimédia";
+"Navigation" = "Navigation";
+"Networking" = "Réseaux";
+"Packaging" = "Mise en paquet";
+"Productivity" = "Productivité";
+"Repositories" = "Sources";
+"Ringtones" = "Sonneries";
+"Scripting" = "Script";
+"Security" = "Sécurité";
+"Social" = "Social";
+"System" = "Système";
+"Terminal Support" = "Terminal Support";
+"Text Editors" = "Editeurs de Texte";
+"Themes" = "Thèmes";
+"Toys" = "Jouets";
+"Tweaks" = "Tweaks";
+"Utilities" = "Utilitaires";
+"Wallpaper" = "Fonds d'écran";
+"Widgets" = "Widgets";
 
 // Search
 
@@ -173,7 +214,7 @@
 // Console
 
 "Console" = "Console";
-"Performing actions" = "Actions En cours";
+"Performing actions" = "En cours";
 "Updating icon cache asynchronously..." = "Mise à jour asynchrone du cache des icônes...";
 "This may take awhile and Zebra may crash. It is okay if it does." = "Cela peut prendre un moment et peut conduire Zebra à se fermer. Tout va bien si tel est le cas.";
 "Close Zebra" = "Fermer Zebra";
@@ -190,11 +231,16 @@
 "Upgrading Packages..." = "Mise à niveau des Paquets...";
 "Complete" = "Fini";
 "Finished!" = "Terminé!";
-"Return to Queue" = "Retourner à la File d'attente";
+"Return to Queue" = "Retourner à la Queue";
 "Importing local packages." = "Importation des paquets locaux.";
 "Finished importing local packages." = "Importation des paquets locaux terminée.";
 "One or more packages failed to download." = "Un ou plusieurs paquets n'ont pas pu être téléchargés.";
 "Click \"Return to Queue\" to return to the Queue and retry the download." = "Clic \"Retour à la File d'Attente\" pour retourner à la File d'Attente et réessayer le téléchargement.";
+
+// Queue Bar
+"Packages in Queue" = "Paquets en Liste d'Attente";
+"Package in Queue" = "Paquet en Liste d'Attente";
+"Tap to manage Queue" = "Appuyez pour modifier la Liste d'Attente";
 
 // Queue
 
